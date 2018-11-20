@@ -1,13 +1,13 @@
 ## ItemFactory ##
 Create ItemStacks the easy way.
 
-#### Installation ####
+### Installation ###
 Just browse to the `src/` folder and copy the `ItemFactory.java` to your own project or repository.
 
-#### Usage  ####
+### Usage  ###
 In this part I will show you how to use the ItemFactory, and what you can do with it.
 
-##### Create new instance #####
+#### Create new instance ####
 Using the ItemFactory is pretty easy, first of all, create a new instance or use the static method provided to create one.
 
 ```java
