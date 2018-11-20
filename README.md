@@ -29,7 +29,7 @@ new ItemFactory(ItemStack itemStack);
 #### Methods ####
 The ItemFactory has a lot of methods you can use to create your own ItemStack, let's have a look on what methods currently exist:
 
-```java
-setItemMeta(ItemMeta itemMeta) // Set the ItemMeta of the ItemStack
-setType(Material material) // Set the Material of the ItemStack
-```
+Method | Function
+------------ | -------------
+setItemMeta(ItemMeta itemMeta) | Set the ItemMeta of the ItemStack
+setType(Material material) | Set the Material of the ItemStack
