@@ -194,7 +194,7 @@ public class ItemFactory {
 
     }
 
-    public ItemFactory setDurability(short damage) {
+    public ItemFactory setDamange(short damage) {
 
         ((Damageable) this.itemMeta).setDamage(damage);
         return this;
