@@ -48,7 +48,7 @@ setLore(String[] lore) | Set the lore with an array (resets all other lores)
 removeLore(int index) | Remove a lore line by index
 clearLore() | Clear the lore
 setUnbreakable(boolean unbreakable) | Set whether the ItemStack must be unbreakable
-setDurability(short damage) | Set the durability of the ItemStack
+setDamange(short damage) | Set the damage of the ItemStack
 addItemFlag(ItemFlag... flags) | Add an ItemFlag
 removeItemFlag(ItemFlag... flags) | Remove an ItemFlag
 addAttributeModifier(Attribute attribute, AttributeModifier modifier) | Add an attribute modifier
