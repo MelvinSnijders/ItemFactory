@@ -66,6 +66,9 @@ ItemFactory supports color codes! This means that whenerver you use a String wit
 This utility is made for **Spigot 1.13+**, using it in any other version might crash your plugin or server.
 I'm not responsible for any problems occuring when using other versions. Do NOT report them.
 
+### Contributing ###
+If you find any problems or improvements in the code, you are free to create a pull request, I will then look into it as soon as possible. If any problems occur, please create an issue.
+
 ### License ###
 MIT License
 
