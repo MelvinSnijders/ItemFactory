@@ -74,7 +74,7 @@ If you find any problems or improvements in the code, you are free to create a p
 The JavaDocs can be found [here](https://javadocs.melvinsnijders.nl/itemfactory/). If something is missing, please contact me.
 
 ### Contact ###
-Twitter: [@TheMelvinNL](https://twitter.com/TheMelvinNL)
+Twitter: [@TheMelvinNL](https://twitter.com/TheMelvinNL)  
 Mail: [mail@melvinsnijders.nl](mailto:mail@melvinsders.nl)
 
 ### License ###
