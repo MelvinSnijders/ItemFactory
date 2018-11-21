@@ -241,7 +241,7 @@ public class ItemFactory {
 
     /**
      * Set the lore of the ItemStack.
-     * @param lore The lore as {@link List<String>} to set.
+     * @param lore The lore as {@link List} to set.
      * @return The existing ItemFactory instance.
      */
 
