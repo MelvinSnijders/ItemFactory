@@ -1,4 +1,5 @@
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+![GitHub](https://img.shields.io/github/license/TheMelvin/ItemFactory.svg) 
+![GitHub release](https://img.shields.io/github/release/TheMelvin/ItemFactory.svg)
 ## ItemFactory ##  
 Create ItemStacks the easy way.  
   
@@ -68,6 +69,13 @@ I'm not responsible for any problems occuring when using other versions. Do NOT 
 
 ### Contributing ###
 If you find any problems or improvements in the code, you are free to create a pull request, I will then look into it as soon as possible. If any problems occur, please create an issue.
+
+### JavaDocs ###
+The JavaDocs can be found [here](https://javadocs.melvinsnijders.nl/itemfactory/). If something is missing, please contact me.
+
+### Contact ###
+Twitter: [@TheMelvinNL](https://twitter.com/TheMelvinNL)
+Mail: [mail@melvinsnijders.nl](mailto:mail@melvinsders.nl)
 
 ### License ###
 MIT License
