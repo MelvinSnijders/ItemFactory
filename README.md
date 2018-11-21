@@ -1,4 +1,4 @@
-
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 ## ItemFactory ##  
 Create ItemStacks the easy way.  
   
